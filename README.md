@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anasanalyst
 - 👀 I’m interested in becoming a Data-Analyst
-- 🌱 I’m currently learning visualisation and have already done SQL, PYTHON with PANDAS, NUMPY, SEABORN and little bit of matplotlib.
+- 🌱 I have already done SQL, PYTHON with PANDAS, NUMPY, SEABORN and  matplotlib. Working on PowerBi.
   
 
 <!---
